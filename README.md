@@ -1,4 +1,4 @@
-# Automl Research Project Setup Using Docker
+# AutoML Research Project Setup Using Docker
 
 ## Welcome, Team!
 
