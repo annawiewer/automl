@@ -121,13 +121,13 @@ Here’s how the project is organized, with each framework in its own directory:
 - **MasterThesis_II**  
   - **AmazonSageMaker**
   - **AutoSklearn**
-  - **FLAML**
+  - **mljar**
 - **MasterThesis_III**  
   - **AutoGluon**
   - **AutoKeras**
   - **SmartML**
 - **MasterThesis_IV**  
-  - **AutoWeka**
+  - **FLAML**
   - **TPOT**
   - **hyperopt-sklearn**
 
