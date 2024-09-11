@@ -5,7 +5,7 @@
 This **README** provides clear instructions on how to set up and work with our **Automl Research Project** using Docker. Each framework in this project has its own **Dockerfile**, which creates a **Docker image**—a snapshot of the environment needed to run that specific framework. Docker ensures that everyone in the team works in a consistent environment, avoiding issues that arise from different local setups.
 
 ### **Note:**
-Currently, the datasets for the project are missing because we haven't finalized which ones we'll be using. Additionally, some of the frameworks in the repository may change in the future. Some frameworks have not been updated recently and may not be adequate for our research goals. We're aiming to include more recent frameworks. For example, in Master Thesis 2, I initially chose the ATM framework. However, after noticing that it hasn't been updated in over 5 years, I decided to switch to the FLAML AutoML Framework, which is actively maintained and still widely used.
+Currently, the datasets for the project are missing because we haven't finalized which ones we'll be using. Additionally, some of the frameworks in the repository may change in the future. Some frameworks have not been updated recently and may not be adequate for our research goals. We're aiming to include more recent frameworks. For example after noticing that the ATM framwework hasn't been updated in over 5 years, I decided to switch to the   mljar-supervised AutoML Framework, which is actively maintained and still widely used.
 
 This project is a starting point to help everyone understand how Docker works and how to set up a project. The focus is to give you a first idea of the workflow, even though the data and frameworks are subject to change.
 
