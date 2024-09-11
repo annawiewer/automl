@@ -57,7 +57,7 @@ Follow the instructions for your operating system to get Docker running.
 
 Once Docker is set up, clone the project repository:
 bash
-git clone https://github.com/t-annawiewer_microsoft/automl.git
+git clone https://github.com/annawiewer/automl.git
 Navigate to the project directory:
 bash
 cd automl
